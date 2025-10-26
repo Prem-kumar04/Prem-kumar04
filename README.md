@@ -1,10 +1,3 @@
-Here’s your updated *GitHub Profile README* — same clean, modern format as before, but now the Web Developer Intern experience is replaced with your *AICTE Cyber Security Internship* (6-week program with Edunet Foundation).
-
-You can copy this directly into your GitHub README.md file:
-
----
-
-{"id":"82149","variant":"standard","title":"GitHub Profile README for Prem Kumar (Updated with AICTE Internship)"}
 # Hi there! 👋 I'm Prem Kumar Kotha
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F79D&width=600&lines=Software+Developer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Always+Building+%26+Learning)
